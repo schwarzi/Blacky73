@@ -1,0 +1,9 @@
+database:
+  host: licserver.enco-gera.de
+  port: 3306
+  dbname: lop_system
+  user: root
+  password: feucikp
+shopsystem:
+  enable: true
+  actualize: 10

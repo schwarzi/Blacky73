@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Blacky73:jar">
+    <output-path>D:/Minecraft/plugins</output-path>
+    <root id="archive" name="Blacky73.jar">
+      <element id="module-output" name="Blacky73" />
+      <element id="extracted-dir" path="D:/Minecraft/spigot-1.10.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

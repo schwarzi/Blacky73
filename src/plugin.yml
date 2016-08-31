@@ -1,0 +1,6 @@
+name: LoPSystem
+description: Lost of Paradise Minecraft Server-Plugin
+version: 1.0.2
+main: de.blacky73.lop.Main
+web: http://www.lostofparadise.de
+author: Blacky73
